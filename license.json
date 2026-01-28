@@ -1,30 +1,14 @@
 {
-  "licenseId": "1145141919",
+  "licenseId": "114514",
   "licenseeName": "z7572",
   "assigneeName": "",
-  "products": [
-    { "code": "II", "paidUpTo": "2099-12-31" },
-    { "code": "PC", "paidUpTo": "2099-12-31" },
-    { "code": "CL", "paidUpTo": "2099-12-31" },
-    { "code": "WS", "paidUpTo": "2099-12-31" },
-    { "code": "PS", "paidUpTo": "2099-12-31" },
-    { "code": "GO", "paidUpTo": "2099-12-31" },
-    { "code": "RD", "paidUpTo": "2099-12-31" },
-    { "code": "DG", "paidUpTo": "2099-12-31" },
-    { "code": "RM", "paidUpTo": "2099-12-31" },
-    { "code": "OC", "paidUpTo": "2099-12-31" },
-    { "code": "CLS", "paidUpTo": "2099-12-31" },
-    { "code": "IIS", "paidUpTo": "2099-12-31" },
-    { "code": "RC", "paidUpTo": "2099-12-31" },
-    { "code": "RS", "paidUpTo": "2099-12-31" },
-    { "code": "RSC", "paidUpTo": "2099-12-31" },
-    { "code": "RDD", "paidUpTo": "2099-12-31" },
-    { "code": "RDP", "paidUpTo": "2099-12-31" },
-    { "code": "RDM", "paidUpTo": "2099-12-31" },
-    { "code": "RLT", "paidUpTo": "2099-12-31" },
-    { "code": "YC", "paidUpTo": "2099-12-31" },
-    { "code": "UP", "paidUpTo": "2099-12-31" },
-    { "code": "HM", "paidUpTo": "2099-12-31" }
+  "products":
+  [
+    { "code": "RS0", "paidUpTo": "2099-12-31" },
+    { "code": "DC", "paidUpTo": "2099-12-31" },
+    { "code": "DPN", "paidUpTo": "2099-12-31" },
+    { "code": "DM", "paidUpTo": "2099-12-31" },
+    { "code": "RC", "paidUpTo": "2099-12-31" }
   ],
-  "metadata": "0120220701PSAN000005"
+  "metadata": "0120250101PSAN000005"
 }
