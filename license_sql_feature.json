@@ -1,0 +1,1408 @@
+{
+  "licenseId": "114514",
+  "licenseeName": "z7572",
+  "assigneeName": "",
+  "products": [
+    {
+      "code": "QL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "AQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "AQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ARS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ASQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ASR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "BQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "BQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "BRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "BSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "BSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "CQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "CQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "CRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "CSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "CSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "DQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "DQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "DRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "DSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "DSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "EQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "EQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ERS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ESQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ESR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "FQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "FQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "FRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "FSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "FSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "GQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "GQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "GRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "GSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "GSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "HQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "HQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "HRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "HSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "HSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "IQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "IQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "IRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ISQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ISR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "JQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "JQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "JRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "JSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "JSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "KQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "KQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "KRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "KSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "KSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "LQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "LQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "LRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "LSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "LSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "MQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "MQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "MRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "MSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "MSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "NQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "NQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "NRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "NSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "NSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "OQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "OQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ORS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "OSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "OSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "PQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "PQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "PRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "PSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "PSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QAS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QBS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QCS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QDS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QES",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QFS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QGS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QHS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QIS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QJS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QKS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLA",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLB",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLC",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLD",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLE",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLF",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLG",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLH",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLI",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLJ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLK",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLM",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLN",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLO",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLP",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLT",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLU",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLV",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLW",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLX",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLY",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QLZ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QMS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QNS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QOS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QPS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSA",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSB",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSC",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSD",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSE",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSF",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSG",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSH",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSI",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSJ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSK",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSM",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSN",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSO",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSP",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QST",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSU",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSV",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSW",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSX",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSY",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QSZ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QTS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QUS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QVS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QWS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QXS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QYS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "QZS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RAS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RBS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RCS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RDS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RES",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RFS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RGS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RHS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RIS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RJS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RKS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RLS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RMS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RNS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ROS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RPS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSA",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSB",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSC",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSD",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSE",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSF",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSG",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSH",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSI",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSJ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSK",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSM",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSN",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSO",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSP",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RST",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSU",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSV",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSW",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSX",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSY",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RSZ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RTS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RUS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RVS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RWS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RXS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RYS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "RZS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SAQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SAR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SBQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SBR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SCQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SCR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SDQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SDR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SEQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SER",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SFQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SFR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SGQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SGR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SHQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SHR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SIQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SIR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SJQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SJR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SKQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SKR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SLQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SLR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SMQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SMR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SNQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SNR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SOQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SOR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SPQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SPR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQA",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQB",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQC",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQD",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQE",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQF",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQG",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQH",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQI",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQJ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQK",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQM",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQN",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQO",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQP",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQT",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQU",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQV",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQW",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQX",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQY",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SQZ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRA",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRB",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRC",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRD",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRE",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRF",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRG",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRH",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRI",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRJ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRK",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRM",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRN",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRO",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRP",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRT",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRU",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRV",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRW",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRX",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRY",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SRZ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "STQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "STR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SUQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SUR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SVQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SVR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SWQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SWR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SXQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SXR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SYQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SYR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SZQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "SZR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "TQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "TQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "TRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "TSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "TSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "UQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "UQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "URS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "USQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "USR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "VQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "VQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "VRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "VSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "VSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "WQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "WQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "WRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "WSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "WSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "XQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "XQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "XRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "XSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "XSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "YQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "YQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "YRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "YSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "YSR",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ZQL",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ZQS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ZRS",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ZSQ",
+      "paidUpTo": "2099-12-31"
+    },
+    {
+      "code": "ZSR",
+      "paidUpTo": "2099-12-31"
+    }
+  ],
+  "metadata": "0120250101PSAN000005"
+}
